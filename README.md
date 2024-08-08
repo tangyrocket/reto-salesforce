@@ -25,4 +25,4 @@ http://localhost:8081/backend-nttdata/obtener-datos?cantidad=1.
 1. Utilizar el endpoint 
 http://localhost:8081/backend-nttdata/obtener-datos?cantidad=10
 
-2. Indicar el número de datos que necesitamos
+2. Indicar el número de datos que necesitamos en el query cantidad, si no se indica se utilizará el valor 1
